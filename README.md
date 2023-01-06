@@ -3,8 +3,8 @@
  
  Simply fill out the ingredients.json with the number of each ingredient in your inventory and run the python program. You can use the flags to change the input files if you'd prefer, but there really is no need to.
  
- 
 # Usage
+```
 usage: PotionMaker.py [-h] [-p POTION_RECIPE_FILE] [-i INGREDIENTS] [--debug] [--logging LOGGING]
 
 optional arguments:
@@ -15,3 +15,4 @@ optional arguments:
                         JSON file with your current ingredients
   --debug               Show debug information
   --logging LOGGING     Log file
+```
