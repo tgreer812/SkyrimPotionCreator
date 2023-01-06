@@ -1,0 +1,476 @@
+{
+    "Cure Disease": [
+        "Charred Skeever Hide",
+        "Hawk Feathers",
+        "Mudcrab Chitin",
+        "Vampire Dust"
+    ],
+    "Damage Health": [
+        "Crimson Nirnroot",
+        "Deathbell",
+        "Ectoplasm",
+        "Falmer Ear",
+        "Human Flesh",
+        "Human Heart",
+        "Imp Stool",
+        "Nightshade",
+        "Nirnroot",
+        "Red Mountain Flower",
+        "River Betty",
+        "Skeever Tail",
+        "Small Antlers",
+        "Troll Fat",
+        "Void Salts"
+    ],
+    "Damage Magicka": [
+        "Butterfly Wing",
+        "Chaurus Eggs",
+        "Daedra Heart",
+        "Eye of Sabre Cat",
+        "Glow Dust",
+        "Hagraven Feathers",
+        "Hanging Moss",
+        "Human Heart",
+        "Luna Moth Wing",
+        "Namira's Rot",
+        "Nordic Barnacle"
+    ],
+    "Damage Magicka Regen": [
+        "Bear Claws",
+        "Blue Butterfly Wing",
+        "Blue Mountain Flower",
+        "Chicken's Egg",
+        "Glow Dust",
+        "Hanging Moss",
+        "Human Heart",
+        "Nightshade",
+        "Spider Egg",
+        "Spriggan Sap"
+    ],
+    "Damage Stamina": [
+        "Blisterwort",
+        "Blue Butterfly Wing",
+        "Bone Meal",
+        "Canis Root",
+        "Crimson Nirnroot",
+        "Cyrodilic Spadetail",
+        "Giant's Toe",
+        "Nirnroot",
+        "Rock Warbler Egg",
+        "Spider Egg"
+    ],
+    "Damage Stamina Regen": [
+        "Creep Cluster",
+        "Daedra Heart",
+        "Frost Mirriam",
+        "Giant's Toe",
+        "Histcarp",
+        "Juniper Berries",
+        "Large Antlers",
+        "Silverside Perch",
+        "Skeever Tail",
+        "Wheat"
+    ],
+    "Fear": [
+        "Blue Dartwing",
+        "Cyrodilic Spadetail",
+        "Daedra Heart",
+        "Namira's Rot",
+        "Powdered Mammoth Tusk"
+    ],
+    "Fortify Alteration": [
+        "Grass Pod",
+        "River Betty",
+        "Spriggan Sap"
+    ],
+    "Fortify Barter": [
+        "Butterfly Wing",
+        "Dragon's Tongue",
+        "Hagraven Claw",
+        "Tundra Cotton"
+    ],
+    "Fortify Block": [
+        "Bleeding Crown",
+        "Briar Heart",
+        "Honeycomb",
+        "Pearl",
+        "Slaughterfish Scales",
+        "Tundra Cotton"
+    ],
+    "Fortify Carry Weight": [
+        "Creep Cluster",
+        "Giant's Toe",
+        "Hawk Beak",
+        "River Betty",
+        "Scaly Pholiota",
+        "Wisp Wrappings"
+    ],
+    "Fortify Conjuration": [
+        "Blue Butterfly Wing",
+        "Blue Mountain Flower",
+        "Bone Meal",
+        "Frost Salts",
+        "Hagraven Feathers",
+        "Lavender"
+    ],
+    "Fortify Destruction": [
+        "Beehive Husk",
+        "Ectoplasm",
+        "Glow Dust",
+        "Glowing Mushroom",
+        "Nightshade",
+        "Wisp Wrappings"
+    ],
+    "Fortify Enchanting": [
+        "Blue Butterfly Wing",
+        "Hagraven Claw",
+        "Snowberries",
+        "Spriggan Sap"
+    ],
+    "Fortify Health": [
+        "Bear Claws",
+        "Blue Mountain Flower",
+        "Giant's Toe",
+        "Glowing Mushroom",
+        "Hanging Moss",
+        "Wheat"
+    ],
+    "Fortify Heavy Armor": [
+        "Ice Wraith Teeth",
+        "Sabre Cat Tooth",
+        "Slaughterfish Scales",
+        "Thistle Branch",
+        "White Cap"
+    ],
+    "Fortify Illusion": [
+        "Dragon's Tongue",
+        "Dwarven Oil",
+        "Mora Tapinella",
+        "Scaly Pholiota",
+        "Taproot"
+    ],
+    "Fortify Light Armor": [
+        "Beehive Husk",
+        "Hawk Feathers",
+        "Honeycomb",
+        "Luna Moth Wing",
+        "Skeever Tail"
+    ],
+    "Fortify Lockpicking": [
+        "Falmer Ear",
+        "Namira's Rot",
+        "Pine Thrush Egg",
+        "Spider Egg"
+    ],
+    "Fortify Magicka": [
+        "Briar Heart",
+        "Ectoplasm",
+        "Histcarp",
+        "Jazbay Grapes",
+        "Red Mountain Flower",
+        "Tundra Cotton",
+        "Void Salts"
+    ],
+    "Fortify Marksman": [
+        "Canis Root",
+        "Elves Ear",
+        "Juniper Berries",
+        "Spider Egg"
+    ],
+    "Fortify One-handed": [
+        "Bear Claws",
+        "Canis Root",
+        "Hanging Moss",
+        "Hawk Feathers",
+        "Rock Warbler Egg",
+        "Small Pearl"
+    ],
+    "Fortify Pickpocket": [
+        "Blue Dartwing",
+        "Nordic Barnacle",
+        "Orange Dartwing",
+        "Slaughterfish Egg"
+    ],
+    "Fortify Restoration": [
+        "Abecean Longfin",
+        "Cyrodilic Spadetail",
+        "Salt Pile",
+        "Small Antlers",
+        "Small Pearl"
+    ],
+    "Fortify Smithing": [
+        "Blisterwort",
+        "Glowing Mushroom",
+        "Sabre Cat Tooth",
+        "Spriggan Sap"
+    ],
+    "Fortify Sneak": [
+        "Abecean Longfin",
+        "Beehive Husk",
+        "Frost Mirriam",
+        "Hawk Feathers",
+        "Human Flesh",
+        "Powdered Mammoth Tusk",
+        "Purple Mountain Flower"
+    ],
+    "Fortify Stamina": [
+        "Chaurus Eggs",
+        "Garlic",
+        "Large Antlers",
+        "Lavender",
+        "Slaughterfish Egg",
+        "Torchbug Thorax"
+    ],
+    "Fortify Two-handed": [
+        "Dragon's Tongue",
+        "Fly Amanita",
+        "Troll Fat"
+    ],
+    "Frenzy": [
+        "Blisterwort",
+        "Falmer Ear",
+        "Fly Amanita",
+        "Hagraven Feathers",
+        "Human Heart",
+        "Troll Fat"
+    ],
+    "Invisibility": [
+        "Chaurus Eggs",
+        "Crimson Nirnroot",
+        "Ice Wraith Teeth",
+        "Luna Moth Wing",
+        "Nirnroot",
+        "Vampire Dust"
+    ],
+    "Lingering Damage Health": [
+        "Imp Stool",
+        "Mora Tapinella",
+        "Orange Dartwing",
+        "Slaughterfish Egg",
+        "Slaughterfish Scales"
+    ],
+    "Lingering Damage Magicka": [
+        "Hagraven Claw",
+        "Purple Mountain Flower",
+        "Swamp Fungal Pod",
+        "Torchbug Thorax",
+        "Wheat"
+    ],
+    "Lingering Damage Stamina": [
+        "Butterfly Wing",
+        "Chicken's Egg",
+        "Nightshade",
+        "Small Antlers"
+    ],
+    "Paralysis": [
+        "Briar Heart",
+        "Canis Root",
+        "Human Flesh",
+        "Imp Stool",
+        "Swamp Fungal Pod"
+    ],
+    "Ravage Health": [
+        "Cyrodilic Spadetail",
+        "Eye of Sabre Cat",
+        "Giant Lichen",
+        "Jazbay Grapes",
+        "Silverside Perch",
+        "Skeever Tail"
+    ],
+    "Ravage Magicka": [
+        "Frost Mirriam",
+        "Grass Pod",
+        "Lavender",
+        "Orange Dartwing",
+        "Red Mountain Flower",
+        "White Cap"
+    ],
+    "Ravage Stamina": [
+        "Bee",
+        "Bone Meal",
+        "Deathbell",
+        "Honeycomb",
+        "Thistle Branch"
+    ],
+    "Regenerate Health": [
+        "Garlic",
+        "Juniper Berries",
+        "Luna Moth Wing",
+        "Namira's Rot",
+        "Nordic Barnacle",
+        "Vampire Dust"
+    ],
+    "Regenerate Magicka": [
+        "Dwarven Oil",
+        "Fire Salts",
+        "Garlic",
+        "Jazbay Grapes",
+        "Moon Sugar",
+        "Salt Pile",
+        "Taproot"
+    ],
+    "Regenerate Stamina": [
+        "Bee",
+        "Fly Amanita",
+        "Mora Tapinella",
+        "Scaly Pholiota"
+    ],
+    "Resist Fire": [
+        "Bone Meal",
+        "Dragon's Tongue",
+        "Elves Ear",
+        "Fire Salts",
+        "Fly Amanita",
+        "Mudcrab Chitin",
+        "Snowberries"
+    ],
+    "Resist Frost": [
+        "Frost Mirriam",
+        "Frost Salts",
+        "Hawk Beak",
+        "Moon Sugar",
+        "Purple Mountain Flower",
+        "Silverside Perch",
+        "Slaughterfish Scales",
+        "Small Pearl",
+        "Snowberries",
+        "Thistle Branch"
+    ],
+    "Resist Magic": [
+        "Bleeding Crown",
+        "Chicken's Egg",
+        "Crimson Nirnroot",
+        "Hagraven Claw",
+        "Lavender",
+        "Nirnroot",
+        "Tundra Cotton",
+        "Void Salts",
+        "Wisp Wrappings"
+    ],
+    "Resist Poison": [
+        "Beehive Husk",
+        "Charred Skeever Hide",
+        "Falmer Ear",
+        "Garlic",
+        "Grass Pod",
+        "Mudcrab Chitin",
+        "Slaughterfish Egg",
+        "Thistle Branch",
+        "Troll Fat"
+    ],
+    "Resist Shock": [
+        "Blue Dartwing",
+        "Glow Dust",
+        "Glowing Mushroom",
+        "Hawk Beak",
+        "Pearl",
+        "Pine Thrush Egg",
+        "Snowberries",
+        "Swamp Fungal Pod"
+    ],
+    "Restore Health": [
+        "Blisterwort",
+        "Blue Dartwing",
+        "Blue Mountain Flower",
+        "Butterfly Wing",
+        "Charred Skeever Hide",
+        "Daedra Heart",
+        "Eye of Sabre Cat",
+        "Imp Stool",
+        "Rock Warbler Egg",
+        "Swamp Fungal Pod",
+        "Wheat"
+    ],
+    "Restore Magicka": [
+        "Briar Heart",
+        "Creep Cluster",
+        "Dwarven Oil",
+        "Ectoplasm",
+        "Elves Ear",
+        "Fire Salts",
+        "Frost Salts",
+        "Giant Lichen",
+        "Grass Pod",
+        "Human Flesh",
+        "Moon Sugar",
+        "Mora Tapinella",
+        "Pearl",
+        "Red Mountain Flower",
+        "Taproot",
+        "Vampire Dust",
+        "White Cap"
+    ],
+    "Restore Stamina": [
+        "Bear Claws",
+        "Bee",
+        "Charred Skeever Hide",
+        "Eye of Sabre Cat",
+        "Hawk Beak",
+        "Histcarp",
+        "Honeycomb",
+        "Large Antlers",
+        "Mudcrab Chitin",
+        "Orange Dartwing",
+        "Pearl",
+        "Pine Thrush Egg",
+        "Powdered Mammoth Tusk",
+        "Purple Mountain Flower",
+        "Sabre Cat Tooth",
+        "Silverside Perch",
+        "Small Pearl",
+        "Torchbug Thorax",
+        "Wisp Wrappings"
+    ],
+    "Slow": [
+        "Deathbell",
+        "Large Antlers",
+        "River Betty",
+        "Salt Pile"
+    ],
+    "Waterbreathing": [
+        "Chicken's Egg",
+        "Histcarp",
+        "Nordic Barnacle"
+    ],
+    "Weakness to Fire": [
+        "Bleeding Crown",
+        "Frost Salts",
+        "Ice Wraith Teeth",
+        "Juniper Berries",
+        "Moon Sugar",
+        "Powdered Mammoth Tusk"
+    ],
+    "Weakness to Frost": [
+        "Abecean Longfin",
+        "Elves Ear",
+        "Fire Salts",
+        "Ice Wraith Teeth",
+        "White Cap"
+    ],
+    "Weakness to Magic": [
+        "Creep Cluster",
+        "Dwarven Oil",
+        "Jazbay Grapes",
+        "Rock Warbler Egg",
+        "Salt Pile",
+        "Scaly Pholiota",
+        "Taproot",
+        "Torchbug Thorax"
+    ],
+    "Weakness to Poison": [
+        "Abecean Longfin",
+        "Bleeding Crown",
+        "Chaurus Eggs",
+        "Deathbell",
+        "Giant Lichen",
+        "Pine Thrush Egg",
+        "Sabre Cat Tooth",
+        "Small Antlers"
+    ],
+    "Weakness to Shock": [
+        "Bee",
+        "Giant Lichen",
+        "Hagraven Feathers",
+        "Void Salts"
+    ]
+}
